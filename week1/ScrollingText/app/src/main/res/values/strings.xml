@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">ScrollingText</string>
+    <string name="article_title">SAD - Overview</string>
+    <string name="article_subtitle">System Analysis and Design</string>
+    <string name="article_text">Systems development is systematic process which includes phases such as planning, analysis, design, deployment, and maintenance. Here, in this tutorial, we will primarily focus on − \n
+        <b>Systems analysis </b> \n
+        <b>Systems design </b> \n
+        <b>Systems Analysis </b> \n
+It is a process of collecting and interpreting facts, identifying the problems, and decomposition of a system into its components.\n
+\n
+System analysis is conducted for the purpose of studying a system or its parts in order to identify its objectives. It is a problem solving technique that improves the system and ensures that all the components of the system work efficiently to accomplish their purpose. \n
+\n
+Analysis specifies what the system should do.\n
+\n
+        <b>Systems Design</b> \n
+It is a process of planning a new business system or replacing an existing system by defining its components or modules to satisfy the specific requirements. Before planning, you need to understand the old system thoroughly and determine how computers can best be used in order to operate efficiently.\n
+\n
+System Design focuses on how to accomplish the objective of the system. \n
+\n
+System Analysis and Design (SAD) mainly focuses on − \n
+\n
+Systems \n
+Processes \n
+Technology \n
+        <b>What is a System?</b> \n
+The word System is derived from Greek word Systema, which means an organized relationship between any set of components to achieve some common cause or objective. \n
+\n
+A system is - an orderly grouping of interdependent components linked together according to a plan to achieve a specific goal. \n
+\n
+        <b>Constraints of a System</b> \n
+A system must have three basic constraints − \n
+\n
+A system must have some structure and behavior which is designed to achieve a predefined objective. \n
+\n
+Interconnectivity and interdependence must exist among the system components.\n
+\n
+The objectives of the organization have a higher priority than the objectives of its subsystems.\n
+\n
+For example, traffic management system, payroll system, automatic library system, human resources information system. \n
+\n
+        <b>Properties of a System</b> \n
+A system has the following properties − \n
+\n
+        <b>Organization</b> \n
+Organization implies structure and order. It is the arrangement of components that helps to achieve predetermined objectives.\n
+\n
+        <b>Interaction</b> \n
+It is defined by the manner in which the components operate with each other. \n
+\n
+For example, in an organization, purchasing department must interact with production department and payroll with personnel department.\n
+\n
+        <b>Interdependence</b> \n
+Interdependence means how the components of a system depend on one another. For proper functioning, the components are coordinated and linked together according to a specified plan. The output of one subsystem is the required by other subsystem as input. \n
+\n
+        <b>Integration</b> \n
+Integration is concerned with how a system components are connected together. It means that the parts of the system work together within the system even if each part performs a unique function. \n
+    <i>For details click on this link: www.tutorialspoint.com/system_analysis_and_design/system_analysis_and_design_overview.htm</i> \n </string>
+</resources>
